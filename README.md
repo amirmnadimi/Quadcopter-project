@@ -1,2 +1,26 @@
-# Quadcopter-project
-یک مینی پروژه برنامه نویسی کوادکوپتر
+
+
+
+Languages and Tools:
+Visual Studio Code
+
+Python
+
+C#
+
+HTML5
+
+CSS3
+
+JavaScript
+
+SQL
+
+MySQL
+
+Git
+
+GitHub
+
+Terminal
+
